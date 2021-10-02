@@ -1,0 +1,12 @@
+/* roboto-condensed-700 - cyrillic */
+@font-face {
+  font-family: "Roboto Condensed";
+  font-weight: 700;
+  font-style: normal;
+
+  font-display: swap;
+  src: local(""),
+    url("../fonts/roboto-condensed-v19-cyrillic-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/roboto-condensed-v19-cyrillic-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
